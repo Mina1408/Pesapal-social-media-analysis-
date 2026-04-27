@@ -34,10 +34,10 @@ Python · Pandas · Matplotlib · Seaborn · Excel · Google Colab
 - pesapal_social_media_dataset.xlsx - the full dataset
 - weekly_automation.py - the automation script
 - pesapal_social_automation.ipynb - Google Colab notebook
-- chart1_platform_efficiency.png
-- chart2_content_engagement.png
-- chart3_weekly_growth.png
-- chart4_heatmap.png
+- download1_platform_efficiency.png
+- download2_content_engagement.png
+- download3_weekly_growth.png
+- download4_heatmap.png
 
 ## Analyst
 Teckler Ndiany - Social Media Analyst & Automation Analyst
